@@ -21,7 +21,7 @@ def mainpage():
 
 	header = '<html><head><title>Identidock</title></head><body>'
 	body = '''<form method="POST">
-		  Hallo <input type="text" name="name" value="{0}">
+		  Hallo TEST <input type="text" name="name" value="{0}">
 		  <input type="submit" value="Abschicken">
 		  </form>
 		  <p>Du siehst aus wie ein:
